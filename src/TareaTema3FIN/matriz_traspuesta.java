@@ -3,6 +3,10 @@ package TareaTema3FIN;
 public class matriz_traspuesta {
 
 	public static void main(String[] args) {
+		
+		
+		//CAMBIO PARA ENTORNOS
+		
 		//Después de hacer planteamiento en papel, puedo realizar el programa
 		//Creo 1ra matriz y asigno valores a la vez, cada rango es una fila.
 		int[][] matriz1 = {{1,2,3},{4,5,6},{7,8,9}};
