@@ -3,6 +3,9 @@ package TareaTema3;
 import java.util.Scanner;
  
 public class X_Con_Asteriscos_Mejorado {
+	
+	// comentario2 entornos p311//
+	//COMENTARIO ENTORNOS P31//
  
 public static void main(String[] args) {
 		//pedimos por pantalla un nº impar, pues para tener un centro que conecten las dos
